@@ -16,4 +16,4 @@ Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus ma
 
 ***
 
-![](/uploads/2018/02/17/bridge3.jpg)
+![Bridge Image](/forestry-demo/uploads/2018/02/17/bridge3.jpg "Bridge")
