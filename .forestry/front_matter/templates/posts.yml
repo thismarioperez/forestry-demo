@@ -9,4 +9,4 @@ fields:
   hidden: false
   default: post
 pages:
-- _posts/my-first-post.md
+- _posts/2018-08-16-my-first-post.md
